@@ -1,13 +1,7 @@
 #!/bin/bash
 <<<<<<< HEAD
-<<<<<<< Updated upstream
 echo "ALX School"
 echo "Alx school is cool"
-=======
-echo "Alx school"
->>>>>>> Stashed changes
-=======
-echo "Alx school is cool"
-echo "Alx school"
 >>>>>>> main
 echo "ALX School"
+echo "Alx school is cool'
